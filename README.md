@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Marko
 
-<!--
-**cicnavi/cicnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working in Identity and Access Management (IAM) field, with related repos being:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [rediris-es/simplesamlphp-module-oidc](https://github.com/rediris-es/simplesamlphp-module-oidc) -
+  OpenID Connect (OIDC) OP support for [SimpleSAMLphp](https://github.com/simplesamlphp/simplesamlphp)
+- [cicnavi/oidc-client-php](https://github.com/cicnavi/oidc-client-php) - OIDC PHP Client, for use at 
+  OIDC Relaying Parties (RPs)
+- [cicnavi/wp-aaieduhr-auth](https://github.com/cicnavi/wp-aaieduhr-auth) - WordPress SAML authN supoprt
+  using SimpleSAMLphp
+  
+My development environment: [cicnavi/dockers](https://github.com/cicnavi/dockers)
