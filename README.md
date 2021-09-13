@@ -2,7 +2,7 @@
 
 I’m currently working in Identity and Access Management (IAM) field, with related repos being:
 
-- [rediris-es/simplesamlphp-module-oidc](https://github.com/rediris-es/simplesamlphp-module-oidc) -
+- [simplesamlphp/simplesamlphp-module-oidc](https://github.com/simplesamlphp/simplesamlphp-module-oidc) -
   OpenID Connect (OIDC) OP support for [SimpleSAMLphp](https://github.com/simplesamlphp/simplesamlphp)
 - [cicnavi/oidc-client-php](https://github.com/cicnavi/oidc-client-php) - OIDC PHP Client, for use at 
   OIDC Relaying Parties (RPs)
