@@ -9,7 +9,7 @@ with related repos being:
   OpenID Connect (OIDC) OP support for [SimpleSAMLphp](https://github.com/simplesamlphp/simplesamlphp)
 - [cicnavi/oidc-client-php](https://github.com/cicnavi/oidc-client-php) - OIDC PHP Client, for use at 
   OIDC Relaying Parties (RPs)
-- [cicnavi/wp-aaieduhr-auth](https://github.com/cicnavi/wp-aaieduhr-auth) - WordPress SAML authN supoprt
+- [cicnavi/wp-aaieduhr-auth](https://github.com/cicnavi/wp-aaieduhr-auth) - WordPress SAML authN support
   using SimpleSAMLphp
   
 My development environment: [cicnavi/dockers](https://github.com/cicnavi/dockers)
